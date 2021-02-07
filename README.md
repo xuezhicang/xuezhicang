@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Xuezhi Cang, a Ph.D student at Nortern Illinois University.
+
+My google scholar profile: https://scholar.google.com/citations?user=a3OHfGUAAAAJ&hl=en
+My email: xuezhicang[AT]gmail[dOt]com
 <!--
 **xuezhicang/xuezhicang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
