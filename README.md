@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Xuezhi Cang, a Ph.D student at Nortern Illinois University.
+I am Xuezhi Cang, a Ph.D in Geography.
 
 My google scholar profile: https://scholar.google.com/citations?user=a3OHfGUAAAAJ&hl=en
 
